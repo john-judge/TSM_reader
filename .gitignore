@@ -5,6 +5,7 @@ __pycache__/
 
 # Large data files
 *.tsm
+*.tbn
 
 # C extensions
 *.so
